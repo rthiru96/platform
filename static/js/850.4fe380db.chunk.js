@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkventurit=self.webpackChunkventurit||[]).push([[850],{4850:function(e,t,n){n.r(t);n(2791);var u=n(8302),i=n(184);t.default=function(){return(0,i.jsx)(u.Z,{gutterBottom:!0,variant:"body1",className:"font-weight-bold p-1 m-2",fontSize:"28px",children:"This module is under development."})}}}]);
+//# sourceMappingURL=850.4fe380db.chunk.js.map

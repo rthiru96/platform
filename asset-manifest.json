@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.fae786e7.css",
+    "main.js": "/react-gh-pages/static/js/main.00dfc56f.js",
+    "static/js/268.e5a8ae5c.chunk.js": "/react-gh-pages/static/js/268.e5a8ae5c.chunk.js",
+    "static/js/850.4fe380db.chunk.js": "/react-gh-pages/static/js/850.4fe380db.chunk.js",
+    "static/js/787.290874c2.chunk.js": "/react-gh-pages/static/js/787.290874c2.chunk.js",
+    "static/js/790.3fa9e383.chunk.js": "/react-gh-pages/static/js/790.3fa9e383.chunk.js",
+    "static/media/event.png": "/react-gh-pages/static/media/event.b708c0530140c1f8233a.png",
+    "static/media/flag.svg": "/react-gh-pages/static/media/flag.544213856240b0299263e593a4dc69ca.svg",
+    "static/media/group.png": "/react-gh-pages/static/media/group.dc1497dbfe55f4884dea.png",
+    "static/media/header.png": "/react-gh-pages/static/media/header.566bbb50f5c1a3f0c865.png",
+    "static/media/footer.png": "/react-gh-pages/static/media/footer.be30a4ba0956d2944f5f.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.fae786e7.css.map": "/react-gh-pages/static/css/main.fae786e7.css.map",
+    "main.00dfc56f.js.map": "/react-gh-pages/static/js/main.00dfc56f.js.map",
+    "268.e5a8ae5c.chunk.js.map": "/react-gh-pages/static/js/268.e5a8ae5c.chunk.js.map",
+    "850.4fe380db.chunk.js.map": "/react-gh-pages/static/js/850.4fe380db.chunk.js.map",
+    "787.290874c2.chunk.js.map": "/react-gh-pages/static/js/787.290874c2.chunk.js.map",
+    "790.3fa9e383.chunk.js.map": "/react-gh-pages/static/js/790.3fa9e383.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fae786e7.css",
+    "static/js/main.00dfc56f.js"
+  ]
+}
